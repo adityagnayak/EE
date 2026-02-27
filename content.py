@@ -27,16 +27,16 @@ PRICING_TIERS = {
     "Foundation": {
         "price": "£1,800",
         "features": ["WBS Setup", "Monthly EVM Reports", "Basic Variance Analysis", "Email Support"],
-        "color": "#0070F2"
+        "color": "#0070F2" # SAP Blue
     },
     "Performance": {
         "price": "£2,600",
         "features": ["Everything in Foundation", "Forecast-to-Complete", "Board-Level Status Packs", "Monthly Strategy Call"],
-        "color": "#188918"
+        "color": "#188918" # Success Green
     },
     "Strategic": {
         "price": "£3,500",
         "features": ["Everything in Performance", "Multi-Currency (FX) Handling", "Custom API Connectors", "24h Support SLA"],
-        "color": "#E9730C"
+        "color": "#E9730C" # Warning Orange
     }
 }
